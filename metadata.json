@@ -1,0 +1,6 @@
+{
+  "name": "MaintenanceUK - Premium UK Property Maintenance",
+  "description": "All-in-one residential, landlord, and commercial property maintenance services across the United Kingdom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
